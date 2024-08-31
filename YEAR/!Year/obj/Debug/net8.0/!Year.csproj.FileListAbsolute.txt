@@ -1,0 +1,28 @@
+C:\Users\vanya\source\repos\!Year\!Year\bin\Debug\net8.0\!Year.exe
+C:\Users\vanya\source\repos\!Year\!Year\bin\Debug\net8.0\!Year.deps.json
+C:\Users\vanya\source\repos\!Year\!Year\bin\Debug\net8.0\!Year.runtimeconfig.json
+C:\Users\vanya\source\repos\!Year\!Year\bin\Debug\net8.0\!Year.dll
+C:\Users\vanya\source\repos\!Year\!Year\bin\Debug\net8.0\!Year.pdb
+C:\Users\vanya\source\repos\!Year\!Year\obj\Debug\net8.0\!Year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\source\repos\!Year\!Year\obj\Debug\net8.0\!Year.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\!Year\!Year\obj\Debug\net8.0\!Year.AssemblyInfo.cs
+C:\Users\vanya\source\repos\!Year\!Year\obj\Debug\net8.0\!Year.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\!Year\!Year\obj\Debug\net8.0\!Year.dll
+C:\Users\vanya\source\repos\!Year\!Year\obj\Debug\net8.0\refint\!Year.dll
+C:\Users\vanya\source\repos\!Year\!Year\obj\Debug\net8.0\!Year.pdb
+C:\Users\vanya\source\repos\!Year\!Year\obj\Debug\net8.0\!Year.genruntimeconfig.cache
+C:\Users\vanya\source\repos\!Year\!Year\obj\Debug\net8.0\ref\!Year.dll
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\bin\Debug\net8.0\!Year.exe
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\bin\Debug\net8.0\!Year.deps.json
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\bin\Debug\net8.0\!Year.runtimeconfig.json
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\bin\Debug\net8.0\!Year.dll
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\bin\Debug\net8.0\!Year.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\obj\Debug\net8.0\!Year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\obj\Debug\net8.0\!Year.AssemblyInfoInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\obj\Debug\net8.0\!Year.AssemblyInfo.cs
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\obj\Debug\net8.0\!Year.csproj.CoreCompileInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\obj\Debug\net8.0\!Year.dll
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\obj\Debug\net8.0\refint\!Year.dll
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\obj\Debug\net8.0\!Year.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\obj\Debug\net8.0\!Year.genruntimeconfig.cache
+C:\Users\vanya\OneDrive\Рабочий стол\!Year\obj\Debug\net8.0\ref\!Year.dll
