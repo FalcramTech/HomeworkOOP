@@ -1,0 +1,14 @@
+C:\Users\vanya\source\repos\figure\figure\bin\Debug\net8.0\figure.exe
+C:\Users\vanya\source\repos\figure\figure\bin\Debug\net8.0\figure.deps.json
+C:\Users\vanya\source\repos\figure\figure\bin\Debug\net8.0\figure.runtimeconfig.json
+C:\Users\vanya\source\repos\figure\figure\bin\Debug\net8.0\figure.dll
+C:\Users\vanya\source\repos\figure\figure\bin\Debug\net8.0\figure.pdb
+C:\Users\vanya\source\repos\figure\figure\obj\Debug\net8.0\figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\source\repos\figure\figure\obj\Debug\net8.0\figure.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\figure\figure\obj\Debug\net8.0\figure.AssemblyInfo.cs
+C:\Users\vanya\source\repos\figure\figure\obj\Debug\net8.0\figure.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\figure\figure\obj\Debug\net8.0\figure.dll
+C:\Users\vanya\source\repos\figure\figure\obj\Debug\net8.0\refint\figure.dll
+C:\Users\vanya\source\repos\figure\figure\obj\Debug\net8.0\figure.pdb
+C:\Users\vanya\source\repos\figure\figure\obj\Debug\net8.0\figure.genruntimeconfig.cache
+C:\Users\vanya\source\repos\figure\figure\obj\Debug\net8.0\ref\figure.dll

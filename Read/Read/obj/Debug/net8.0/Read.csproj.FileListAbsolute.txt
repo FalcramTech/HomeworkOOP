@@ -1,0 +1,14 @@
+C:\Users\vanya\source\repos\Read\Read\bin\Debug\net8.0\Read.exe
+C:\Users\vanya\source\repos\Read\Read\bin\Debug\net8.0\Read.deps.json
+C:\Users\vanya\source\repos\Read\Read\bin\Debug\net8.0\Read.runtimeconfig.json
+C:\Users\vanya\source\repos\Read\Read\bin\Debug\net8.0\Read.dll
+C:\Users\vanya\source\repos\Read\Read\bin\Debug\net8.0\Read.pdb
+C:\Users\vanya\source\repos\Read\Read\obj\Debug\net8.0\Read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\source\repos\Read\Read\obj\Debug\net8.0\Read.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\Read\Read\obj\Debug\net8.0\Read.AssemblyInfo.cs
+C:\Users\vanya\source\repos\Read\Read\obj\Debug\net8.0\Read.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\Read\Read\obj\Debug\net8.0\Read.dll
+C:\Users\vanya\source\repos\Read\Read\obj\Debug\net8.0\refint\Read.dll
+C:\Users\vanya\source\repos\Read\Read\obj\Debug\net8.0\Read.pdb
+C:\Users\vanya\source\repos\Read\Read\obj\Debug\net8.0\Read.genruntimeconfig.cache
+C:\Users\vanya\source\repos\Read\Read\obj\Debug\net8.0\ref\Read.dll

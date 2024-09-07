@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vanya\\source\\repos\\Million\\Million\\Million.csproj": {}
+    "C:\\Users\\vanya\\OneDrive\\Документы\\Projects\\HomeworkOOP\\Million\\Million\\Million.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vanya\\source\\repos\\Million\\Million\\Million.csproj": {
+    "C:\\Users\\vanya\\OneDrive\\Документы\\Projects\\HomeworkOOP\\Million\\Million\\Million.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vanya\\source\\repos\\Million\\Million\\Million.csproj",
+        "projectUniqueName": "C:\\Users\\vanya\\OneDrive\\Документы\\Projects\\HomeworkOOP\\Million\\Million\\Million.csproj",
         "projectName": "Million",
-        "projectPath": "C:\\Users\\vanya\\source\\repos\\Million\\Million\\Million.csproj",
+        "projectPath": "C:\\Users\\vanya\\OneDrive\\Документы\\Projects\\HomeworkOOP\\Million\\Million\\Million.csproj",
         "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vanya\\source\\repos\\Million\\Million\\obj\\",
+        "outputPath": "C:\\Users\\vanya\\OneDrive\\Документы\\Projects\\HomeworkOOP\\Million\\Million\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

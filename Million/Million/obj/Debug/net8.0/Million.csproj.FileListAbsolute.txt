@@ -1,0 +1,15 @@
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\bin\Debug\net8.0\Million.exe
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\bin\Debug\net8.0\Million.deps.json
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\bin\Debug\net8.0\Million.runtimeconfig.json
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\bin\Debug\net8.0\Million.dll
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\bin\Debug\net8.0\Million.pdb
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\Million.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\Million.AssemblyInfoInputs.cache
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\Million.AssemblyInfo.cs
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\Million.csproj.CoreCompileInputs.cache
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\Million.sourcelink.json
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\Million.dll
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\refint\Million.dll
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\Million.pdb
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\Million.genruntimeconfig.cache
+C:\Users\vanya\OneDrive\Документы\Projects\HomeworkOOP\Million\Million\obj\Debug\net8.0\ref\Million.dll
